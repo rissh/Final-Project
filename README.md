@@ -40,10 +40,10 @@ Variable Name | Description |
 [Dataingestion](https://github.com/rissh/Final-Project/blob/main/dataingestion.sh)
 
 ## Code to Read Raw Data from S3 bucket and create Dataframe in PySpark, Perform Cleaning and Transformations, and Create Table in Hive:
-[PyScript](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/finalScript.py)
+[PyScript](https://github.com/rissh/Final-Project/blob/main/finalpyscript.py)
 
 ## We have used AWS CloudFormation to automate above process
-[CloudFormation templet](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/CFT.json)
+[CloudFormation templet](https://github.com/rissh/Final-Project/blob/main/CFTTRIPDATA.json)
 
 ## - Then we connected Hive table with Tableau Public using Amazon EMR Hadoop Hive Connector
 
