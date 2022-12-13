@@ -37,7 +37,7 @@ Variable Name | Description |
 ![](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Images/arch_dig.png)
 
 ## Code to Get Raw Data from NYC website and store data in S3 bucket:
-[Dataingestion](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/dataingestion.sh)
+[Dataingestion](https://github.com/rissh/Final-Project/blob/main/dataingestion.sh)
 
 ## Code to Read Raw Data from S3 bucket and create Dataframe in PySpark, Perform Cleaning and Transformations, and Create Table in Hive:
 [PyScript](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/finalScript.py)
