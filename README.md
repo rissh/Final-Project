@@ -53,7 +53,7 @@ Variable Name | Description |
 - After converting to parquet format our data volume reduced to 8GB, and performance improved.
 
 **Emr steps**
-- Initially we were strugling alot with EMR steps, but after reading AWS documentation and doing some trial and erros this problem got solved.
+- Initially we were struggling a lot with EMR steps, but after reading AWS documentation and doing some trial and erros this problem got solved.
 
 **CloudFormation**
 - Our EMR cluster use to through some errors while we were doing cloudeFormation, but after backtracking the error message, we were able to launch EMR cluster successfully using CFT.
